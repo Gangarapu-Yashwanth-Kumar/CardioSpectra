@@ -1,2 +1,2 @@
 # CardioSpectra
-Illuminating Heart Health Through Data and By EDA Techniques.
+Illuminating Heart Health Through Data and By EDA Techniques
