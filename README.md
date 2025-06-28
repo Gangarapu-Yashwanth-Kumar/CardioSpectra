@@ -54,7 +54,7 @@ The EDA journey explored various aspects of the dataset, including:
     ```bash
     jupyter notebook "Heart Disease Analysis-EDA .ipynb"
     ```
-    This will open the notebook in your web browser, where you can execute the cells to see the analysis.
+    This will open the notebook in your web browser, where you can execute the cells to see the analysis..
 
 ## 💡 Conclusion
 This EDA provides a solid foundation for understanding the heart disease dataset, revealing key characteristics, relationships, and potential areas for further predictive modeling. The insights gained are crucial for developing effective strategies to analyze and predict heart disease.
